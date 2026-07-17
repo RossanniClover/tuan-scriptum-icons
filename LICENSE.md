@@ -1,4 +1,5 @@
 TUAN Icon Asset License v1.0 — English
+
 ════════════════════════════════════════════════════════════════
 
 Copyright © 2026 YuanTuan · TUAN Creative Studio
@@ -9,6 +10,7 @@ These icon assets ("the Assets") are the original work of
 Official repository: https://github.com/RossanniClover/tuan-scriptum-icons
 Product page: https://yuantuan.dev/tuan_scriptum.php
 
+─────────────
 
 PERMITTED USE
 
@@ -19,6 +21,7 @@ PERMITTED USE
   provided the Assets are embedded within the product and not offered
   as a standalone download
 
+─────────────
 
 RESTRICTIONS
 
@@ -43,6 +46,7 @@ RESTRICTIONS
    You may not claim these Assets as your own original work, or imply
    endorsement by YuanTuan or TUAN Creative Studio.
 
+─────────────
 
 ATTRIBUTION
 
@@ -55,6 +59,8 @@ If you'd like to credit us:
   https://yuantuan.dev/tuan_scriptum.php
 
 
+─────────────
+
 DISCLAIMER
 
 ──────────
@@ -66,8 +72,11 @@ THE ASSETS.
 
 
 ════════════════════════════════════════════════════════════════
+
 TUAN 圖示資產授權條款 v1.0 — 繁體中文版
+
 ════════════════════════════════════════════════════════════════
+
 
 著作權所有 © 2026 圓糰 · 閑一糰創作社團
 保留所有權利。
@@ -78,6 +87,8 @@ TUAN 圖示資產授權條款 v1.0 — 繁體中文版
 產品介紹頁：https://yuantuan.dev/tuan_scriptum.php
 
 
+─────────────
+
 【許可使用】
 
 ────────────
@@ -87,6 +98,8 @@ TUAN 圖示資產授權條款 v1.0 — 繁體中文版
   前提為本圖示資產係嵌入於產品之中，
   而非以獨立下載包的形式提供
 
+
+─────────────
 
 【限制條款】
 
@@ -111,6 +124,8 @@ TUAN 圖示資產授權條款 v1.0 — 繁體中文版
     亦不得暗示圓糰或閑一糰創作社團為您的作品背書。
 
 
+─────────────
+
 【姓名標示】
 
 ────────────
@@ -121,6 +136,8 @@ TUAN 圖示資產授權條款 v1.0 — 繁體中文版
   https://yuantuan.dev/tuan_scriptum.php
 
 
+─────────────
+
 【免責聲明】
 
 ────────────
@@ -128,5 +145,6 @@ TUAN 圖示資產授權條款 v1.0 — 繁體中文版
 本圖示資產依「現狀」提供，不附任何明示或默示之保證。
 著作權人不對因使用本資產所產生之任何索賠、損害
 或其他責任負責。
+
 
 ════════════════════════════════════════════════════════════════
