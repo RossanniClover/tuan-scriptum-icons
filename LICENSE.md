@@ -11,7 +11,9 @@ Product page: https://yuantuan.dev/tuan_scriptum.php
 
 
 PERMITTED USE
+
 ─────────────
+
 · Use within personal, open-source, or commercial software products
 · Redistribution as part of a larger software project or application,
   provided the Assets are embedded within the product and not offered
@@ -19,7 +21,9 @@ PERMITTED USE
 
 
 RESTRICTIONS
+
 ────────────
+
 1. GitHub Is the Only Official Distribution Source
    You may not re-upload, mirror, or redistribute these Assets as a
    collection on any other platform, including but not limited to:
@@ -41,6 +45,7 @@ RESTRICTIONS
 
 
 ATTRIBUTION
+
 ───────────
 
 Attribution is not required, but appreciated.
@@ -51,6 +56,7 @@ If you'd like to credit us:
 
 
 DISCLAIMER
+
 ──────────
 
 THE ASSETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
@@ -73,6 +79,7 @@ TUAN 圖示資產授權條款 v1.0 — 繁體中文版
 
 
 【許可使用】
+
 ────────────
 
 · 於個人、開源或商業軟體產品中使用
@@ -82,6 +89,7 @@ TUAN 圖示資產授權條款 v1.0 — 繁體中文版
 
 
 【限制條款】
+
 ────────────
 
 一、GitHub 為唯一合法散布來源
@@ -104,7 +112,9 @@ TUAN 圖示資產授權條款 v1.0 — 繁體中文版
 
 
 【姓名標示】
+
 ────────────
+
 不強制要求標注來源，但若願意標注，我們深表感謝。
 
   築字師TUAN / TUAN: Scriptum
@@ -112,7 +122,9 @@ TUAN 圖示資產授權條款 v1.0 — 繁體中文版
 
 
 【免責聲明】
+
 ────────────
+
 本圖示資產依「現狀」提供，不附任何明示或默示之保證。
 著作權人不對因使用本資產所產生之任何索賠、損害
 或其他責任負責。
