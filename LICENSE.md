@@ -42,6 +42,7 @@ RESTRICTIONS
 
 ATTRIBUTION
 ───────────
+
 Attribution is not required, but appreciated.
 If you'd like to credit us:
 
@@ -51,6 +52,7 @@ If you'd like to credit us:
 
 DISCLAIMER
 ──────────
+
 THE ASSETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR
 ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF
@@ -72,6 +74,7 @@ TUAN 圖示資產授權條款 v1.0 — 繁體中文版
 
 【許可使用】
 ────────────
+
 · 於個人、開源或商業軟體產品中使用
 · 作為較大型軟體專案或應用程式的一部分進行散布，
   前提為本圖示資產係嵌入於產品之中，
@@ -80,6 +83,7 @@ TUAN 圖示資產授權條款 v1.0 — 繁體中文版
 
 【限制條款】
 ────────────
+
 一、GitHub 為唯一合法散布來源
     不得將本圖示資產作為集合包，重新上傳、鏡像或散布
     至任何其他平台，包含但不限於：
