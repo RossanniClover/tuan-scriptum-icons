@@ -6,7 +6,7 @@ All rights reserved.
 
 These icon assets ("the Assets") are the original work of
 築字師TUAN / TUAN: Scriptum.
-Official repository: https://github.com/[your-repo]
+Official repository: https://github.com/RossanniClover/tuan-scriptum-icons
 Product page: https://yuantuan.dev/tuan_scriptum.php
 
 
@@ -66,7 +66,7 @@ TUAN 圖示資產授權條款 v1.0 — 繁體中文版
 
 本授權所稱「圖示資產」係指築字師TUAN / TUAN: Scriptum
 所發布之全部圖示檔案。
-官方儲存庫：https://github.com/[your-repo]
+官方儲存庫：https://github.com/RossanniClover/tuan-scriptum-icons
 產品介紹頁：https://yuantuan.dev/tuan_scriptum.php
 
 
