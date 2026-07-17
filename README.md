@@ -63,4 +63,4 @@ If you received these icons from anywhere else, please come here for the latest 
 Licensed under [TUAN Icon Asset License v1.0](./LICENSE)
 
 Icons are updated periodically. Watch this repo to get notified.
-圖示持續更新中，關注本儲存庫以接收最新通知。
+圖示持續更新中， Watch 本儲存庫以接收最新通知。
